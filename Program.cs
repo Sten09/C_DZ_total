@@ -21,6 +21,6 @@ void PrintArray(string[] array)
     }
     Console.WriteLine();
 }
-//Console.WriteLine($"[ {segmentLength}]");
+
 ArrayIF(array1, array2);
 PrintArray(array2);
